@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar (NightDevilPT)</h1>
 <h3 align="center">A passionate MERN(MongoDB, ExpressJS, ReactJS, NodesJS) Stack from India</h3>
 
+![GitHub Repo stars](https://img.shields.io/github/stars/NightDevilPT/blogsphere-server-v2)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pawan-kumar-685a21243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-kumar-685a21243" height="30" width="40" /></a>
