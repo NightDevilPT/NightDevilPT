@@ -46,6 +46,20 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </div>
 
+<div align="left>
+  <h1 align="left" class="section-heading">💻 LeetCode Stats and Graphs</h1>
+<table align="center" width="100%" height="100%">
+    <tr>
+        <!-- Basic LeetCode Stats -->
+        <td><img style="border: none;" src="https://leetcard.jacoblin.cool/NightDevilPT?theme=dark" alt="LeetCode Stats" /></td>
+        <!-- LeetCode Heatmap -->
+        <td><img style="border: none;" src="https://leetcard.jacoblin.cool/NightDevilPT?theme=dark&ext=heatmap" alt="LeetCode Heatmap" /></td>
+        <!-- LeetCode Contest Rating -->
+        <td><img style="border: none;" src="https://leetcard.jacoblin.cool/NightDevilPT?theme=dark&ext=contest" alt="LeetCode Contest Rating" /></td>
+    </tr>
+</table>
+</div>
+
 <div align="left">
     <h1 align="left" class="section-heading"> 💻 Github Stats</h1>
     <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
