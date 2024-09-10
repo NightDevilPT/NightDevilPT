@@ -13,7 +13,7 @@ jobs:
       # Generate the snake animation
       - uses: Platane/snk@v2
         with:
-          github_user_name: your-username
+          github_user_name: NightDevilPT
           outputs: dist/snake.svg
 
       # Push the SVG file to the repository
