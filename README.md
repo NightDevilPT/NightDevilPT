@@ -25,9 +25,61 @@
 
 <div align="left">
   <h1>🚀 Github Commits</h1>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/nightdevilpt/nightdevilpt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/nightdevilpt/nightdevilpt/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <p>This section highlights my daily activity, showcasing the repositories I am currently working on.</p>
+  <img src="https://raw.githubusercontent.com/NightDevilPT/NightDevilPT/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/NightDevilPT/NightDevilPT/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
+<div align="left">
+  <h1 class="section-heading">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3c6.svg" width="28" height="28" alt="trophy icon"/>
+    Top Projects
+  </h1>
+  <p>Agentic AI systems I've architected — combining LangGraph orchestration, LLM-driven automation, and sandboxed execution to solve real-world engineering problems end-to-end.</p>
+
+  <ul style="list-style:none; padding-left:0;">
+    <li style="margin-bottom:30px;">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f916.svg" width="24" height="24" alt="robot icon"/>
+        <a href="https://github.com/NightDevilPT/ml-agent">ML-Agent</a> — Hierarchical Agentic AutoML System
+      </h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/NightDevilPT/ml-agent?style=flat-square&color=yellow" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/NightDevilPT/ml-agent?style=flat-square&color=blue" alt="Forks"/>
+        <img src="https://img.shields.io/github/last-commit/NightDevilPT/ml-agent?style=flat-square" alt="Last Commit"/>
+        <img src="https://img.shields.io/github/languages/top/NightDevilPT/ml-agent?style=flat-square" alt="Top Language"/>
+        <img src="https://img.shields.io/github/repo-size/NightDevilPT/ml-agent?style=flat-square" alt="Repo Size"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-Orchestration-1C3C3C?style=flat-square" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/Docker-Sandboxed%20Execution-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/XGBoost-AutoML-EC0000?style=flat-square" alt="XGBoost"/>
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <p>An autonomous, two-phase AutoML pipeline built on a hierarchical LangGraph subgraph architecture. Handles dataset ingestion, auto-cleaning, dual-gate data validation, Human-in-the-Loop algorithm selection, and sandboxed Docker execution — culminating in LLM-audited performance scorecards.</p>
+    </li>
+    <li style="margin-bottom:30px;">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ac.svg" width="24" height="24" alt="clapper board icon"/>
+        <a href="https://github.com/NightDevilPT/dubbing-agent">Dubbing Agent</a> — AI-Powered Multilingual Subtitle Pipeline
+      </h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/NightDevilPT/dubbing-agent?style=flat-square&color=yellow" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/NightDevilPT/dubbing-agent?style=flat-square&color=blue" alt="Forks"/>
+        <img src="https://img.shields.io/github/last-commit/NightDevilPT/dubbing-agent?style=flat-square" alt="Last Commit"/>
+        <img src="https://img.shields.io/github/languages/top/NightDevilPT/dubbing-agent?style=flat-square" alt="Top Language"/>
+        <img src="https://img.shields.io/github/repo-size/NightDevilPT/dubbing-agent?style=flat-square" alt="Repo Size"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-State%20Machine-1C3C3C?style=flat-square" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/Whisper-Speech%20to%20Text-orange?style=flat-square" alt="Whisper"/>
+        <img src="https://img.shields.io/badge/FFmpeg-Media%20Processing-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
+        <img src="https://img.shields.io/badge/LLM-Translation%20QA-purple?style=flat-square" alt="LLM"/>
+      </p>
+      <p>An agentic video localization framework automating transcription, context-aware translation, subtitle generation, and lossless container muxing — powered by Whisper AI and a custom Bi-Directional Sliding Context Window achieving 98% token savings on translation.</p>
+    </li>
+    <!-- 👇 To add a future project: copy one <li>...</li> block above and update repo name, badges, description, and Twemoji icon -->
+  </ul>
 </div>
 
 <h1 align="left" class="section-heading">🔧 Frameworks</h1>
